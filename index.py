@@ -1,6 +1,3 @@
 name=input("Enter your name")
 age=int(input("Enter your age: "))
 print("your name is ",name, "and age is", age)
-print("This changes have been made through github and then let's check if we can see this in the local or not via git pull command")
-print("Trying some more things")
-print("Now this time it should work")
